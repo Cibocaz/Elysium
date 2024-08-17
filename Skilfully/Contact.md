@@ -1,3 +1,3 @@
-邮箱 | Mail : \
-QQ | TencentQQ : \
-微信 | WeChat : \
+### QQ群: 181224961
+---
+### 电子邮箱: Elysium_Skilfully@163.com
