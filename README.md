@@ -14,4 +14,4 @@ ElysiumLogin 是 Elysium 旗下的 Skilfully工作室 推出的一款用于服�
 在此基础上，它能够提供高度的自定义配置。
 如果您有宝贵的意见，请务必与我们联系！
 ```
-联系 : [Skilfully工作室](.\Skilfully\Contact.md)
+联系 : [Skilfully工作室](./Skilfully/Contact.md)
